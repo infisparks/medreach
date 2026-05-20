@@ -9097,17 +9097,18 @@ header.main-header .header-sticky.active{
 
 .why-choose-counter-image-stone figure{
 	display: block;
-	max-width: 175px;
-	margin-left: auto;
+	max-width: 85%;
+	margin: 0 auto;
+	padding: 30px 0;
 	border-radius: 20px;
 }
 
 .why-choose-counter-image-stone img{
 	width: 100%;
-	aspect-ratio: 1 / 1.7;
-	object-fit: cover;
+	height: auto;
+	display: block;
+	margin: 0 auto;
 	border-radius: 20px;
-	margin-top: -70px;
 }
 
 .why-choose-us-stone .section-footer-text{
